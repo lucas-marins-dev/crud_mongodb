@@ -4,7 +4,7 @@ Este projeto implementa operações de **CRUD (Create, Read, Update, Delete)** e
 
 ## 🚀 Tecnologias
 - Python 3.x
-- MongoDB (local ou Docker)
+- MongoDB
 - Biblioteca [pymongo](https://pypi.org/project/pymongo/)
 
 ## ⚙️ Como rodar

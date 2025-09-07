@@ -1,9 +1,7 @@
 from pymongo import MongoClient
 
-# Conexão com o MongoDB local
 client = MongoClient("mongodb+srv://userTrabalho:6a4e5Uf2htJq4wkg@cluster0.wmkpgm2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
-# Criando banco e coleção
 db = client["Cluster0"]
 colecao = db["usuarios"]
 
